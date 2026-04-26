@@ -1,9 +1,9 @@
-# langchain first assignment
-Prompt Quality Scoring Agent — User Guide
+# Prompt Quality Scoring Agent - User Guide
+
 This tool helps you evaluate the quality of any prompt you write.
 It gives you a score out of 10, explains what can be improved, and provides simple suggestions to make your prompt stronger and more effective.
 
-✅ What This Agent Does
+**What This Agent Does**
 When you enter a prompt, the agent will:
 - Analyze the clarity and structure
 - Check whether enough details and context are provided
@@ -14,7 +14,7 @@ When you enter a prompt, the agent will:
 - Provide 2–3 improvement suggestions
 This helps you write better prompts for AI systems, chatbots, automation tools, and content generation.
 
-🚀 How to Use the Agent
+**How to Use the Agent**
 Follow these simple steps:
 1. Run the Notebook
 Open the Jupyter/Colab notebook containing the agent code and run all cells until you reach the input section.
@@ -37,13 +37,12 @@ Specificity: 6
 Context: 7
 Output Format: 8
 Persona: 8
-
 Suggestions:
 - Add more details about the target audience.
 - Specify tone or writing style.
 - Clarify the purpose of the summary.
 
-🧠 What Makes a Good Prompt?
+**What Makes a Good Prompt?**
 The agent evaluates your prompt based on five criteria:
 - Clarity
 Is the prompt easy to understand?
@@ -57,13 +56,12 @@ Does it specify tone, length, or structure?
 Does it assign a role (e.g., “Act as a data analyst”)?
 The better your prompt covers these areas, the higher your score.
 
-
-⚠️ Important Notes
+**Important Notes**
 - This agent is designed only for evaluating prompt quality.
 - If you ask it anything unrelated (math, travel, coding, etc.), it will respond with:
 “I am a Prompt Quality Agent, so I can only help with evaluating prompt quality.”
 
-📦 Who Can Use This Tool?
+**Who Can Use This Tool?**
 This agent is designed for:
 - Developers writing prompts for AI systems
 - Business teams creating instructions for automation
@@ -71,29 +69,9 @@ This agent is designed for:
 - Anyone learning how to write better prompts
 No technical background is required.
 
-🛠️ How to Run Locally or in Colab
+**How to Run Locally or in Colab**
 - Clone or download this repository
 - Open the notebook in Google Colab or Jupyter Notebook
 - Install required dependencies (LangChain, Google Generative AI)
 - Add your API key
 - Run the notebook and enter your prompt
-
-
-🎯 Why This Tool Is Useful
-Good prompts lead to:
-- Better AI responses
-- More accurate outputs
-- Less rework
-- Faster development
-- Clearer communication
-This agent helps you improve your prompt‑writing skills with immediate feedback.
-
-If you want, I can also generate:
-- A project description
-- A features list
-- A folder structure section
-- A contribution guide
-- A license section
-
-
-
