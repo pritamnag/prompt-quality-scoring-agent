@@ -1,3 +1,23 @@
 Below are some sample prompts to try with the agent.
 
-- jdfhdsj
+##Example 1##
+
+I am creating an AI agent using Gemini model. I already configured the API key in the Google colab. Now I would like to import the key in my code Objective: I would like to import the api key in my code. So I can call the Gemini API in my code to get the response for a user prompt. Style: python code compatible for jupyter notebook Tone: Easy to understand for new AI Agent developer Audience: New AI Agent Developer with limited knowledge of AI Response: It should respond the python code for importing API Keys to the code.
+Final Score: 6.8/10
+
+**Scores for each quality criterion:**
+*   Clarity: 9/10
+*   Specificity/Details: 7/10
+*   Context: 9/10
+*   Output Format & Constraints: 9/10
+*   Persona defined: 0/10
+
+**Short explanation:**
+The prompt is very clear, provides excellent context regarding the user's setup (Gemini, Google Colab), and clearly defines the desired output format, tone, and audience. This makes it easy for the AI to understand the goal. However, it lacks specificity on *how* the API key is currently configured in Colab, which could lead to multiple valid but potentially less direct solutions. Additionally, it does not assign a specific persona to the AI model itself.
+
+**Suggestions to improve the prompt:**
+1.  **Specify API Key Storage Method:** Clarify *how* the API key is configured in Google Colab. For example, is it set as an environment variable using `os.environ`, stored in `user_data`, or directly pasted into a cell? This will help the model provide the most precise and relevant code.
+2.  **Consider Adding a Persona (Optional):** While not strictly necessary for this request, if you want the AI to adopt a specific role (e.g., "Act as an experienced Python developer specializing in AI agents"), you could add a persona to guide the style of explanation further.
+3.  **Define Code Length/Complexity (Optional):** You could add a constraint on the desired length or complexity of the code snippet, e.g., "provide a concise and minimal code snippet" or "include comments explaining each step."
+
+##Example 2##
