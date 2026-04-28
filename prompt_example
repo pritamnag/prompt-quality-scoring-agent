@@ -39,3 +39,23 @@ Suggestions to improve the prompt:
 1.  **Specify a more precise location and time of year:** "North Michigan" is a very broad area. Narrow it down to a specific region (e.g., "Traverse City area," "Mackinac Island and nearby," "Upper Peninsula") and mention the season or month you plan to travel, as activities and recommendations vary greatly.
 2.  **Provide traveler details and interests:** Include information about who is traveling (e.g., family with young kids, couple, solo adventurer), their interests (e.g., hiking, beaches, breweries, history, shopping, relaxation), and their preferred travel pace (e.g., fast-paced, relaxed).
 3.  **Define output expectations:** Specify if you want details like accommodation suggestions, estimated travel times between locations, or a particular tone for the itinerary (e.g., adventurous, luxurious, budget-friendly).
+
+##Example 3##
+
+Please enter your prompt here:Act as a cybersecurity analyst. Create a concise risk assessment summary for a mid‑sized retail company, highlighting the top three vulnerabilities, likelihood of exploitation, and recommended mitigation steps. Keep the summary under 200 words
+- **Final Score**: 9.6/10
+
+- **Scores for each quality criterion**:
+  - **Clarity**: 10/10
+  - **Specificity/Details**: 9/10
+  - **Context**: 9/10
+  - **Output Format & Constraints**: 10/10
+  - **Persona defined**: 10/10
+
+- **Short explanation**:
+  This is an excellent prompt. It clearly defines the persona, the core task, the target entity (mid-sized retail company), and specific content requirements (top three vulnerabilities, likelihood, mitigation). The length constraint is also very clear and helpful.
+
+- **Suggestions to improve the prompt**:
+  1.  **Specify the audience/purpose**: While "risk assessment summary" implies an audience, explicitly stating *who* the summary is for (e.g., "for the executive board," "for IT management") could further refine the tone and level of detail expected.
+  2.  **Suggest a structure for vulnerabilities**: You could ask for a specific format for presenting the vulnerabilities, e.g., "For each vulnerability, provide a brief description, its likelihood (e.g., High, Medium, Low), and 1-2 key mitigation steps."
+  3.  **Define "likelihood" scale**: To ensure consistency, you could specify what scale to use for likelihood (e.g., "use a scale of Low, Medium, High for likelihood").
