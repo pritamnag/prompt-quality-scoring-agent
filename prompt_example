@@ -21,3 +21,21 @@ The prompt is very clear, provides excellent context regarding the user's setup 
 3.  **Define Code Length/Complexity (Optional):** You could add a constraint on the desired length or complexity of the code snippet, e.g., "provide a concise and minimal code snippet" or "include comments explaining each step."
 
 ##Example 2##
+
+Please enter your prompt here:I am planning to go to north Michigan, Can you please help me prepare an itinerary for 5 days. It should include places to visit, local food recommendation. 
+Final Score: 3.6/10
+
+Scores for each quality criterion:
+*   Clarity: 8/10
+*   Specificity/Details: 3/10
+*   Context: 2/10
+*   Output Format & Constraints: 5/10
+*   Persona defined: 0/10
+
+Short explanation:
+The prompt is clear about its general goal (a 5-day itinerary for North Michigan with places and food), but it lacks significant detail regarding the specific region within North Michigan, the traveler's interests, travel style, time of year, and any desired output format constraints. This makes it difficult to generate a truly personalized and useful itinerary.
+
+Suggestions to improve the prompt:
+1.  **Specify a more precise location and time of year:** "North Michigan" is a very broad area. Narrow it down to a specific region (e.g., "Traverse City area," "Mackinac Island and nearby," "Upper Peninsula") and mention the season or month you plan to travel, as activities and recommendations vary greatly.
+2.  **Provide traveler details and interests:** Include information about who is traveling (e.g., family with young kids, couple, solo adventurer), their interests (e.g., hiking, beaches, breweries, history, shopping, relaxation), and their preferred travel pace (e.g., fast-paced, relaxed).
+3.  **Define output expectations:** Specify if you want details like accommodation suggestions, estimated travel times between locations, or a particular tone for the itinerary (e.g., adventurous, luxurious, budget-friendly).
