@@ -59,3 +59,23 @@ Please enter your prompt here:Act as a cybersecurity analyst. Create a concise r
   1.  **Specify the audience/purpose**: While "risk assessment summary" implies an audience, explicitly stating *who* the summary is for (e.g., "for the executive board," "for IT management") could further refine the tone and level of detail expected.
   2.  **Suggest a structure for vulnerabilities**: You could ask for a specific format for presenting the vulnerabilities, e.g., "For each vulnerability, provide a brief description, its likelihood (e.g., High, Medium, Low), and 1-2 key mitigation steps."
   3.  **Define "likelihood" scale**: To ensure consistency, you could specify what scale to use for likelihood (e.g., "use a scale of Low, Medium, High for likelihood").
+
+
+##Example 4##
+
+Please enter your prompt here:Write a 3‑paragraph overview of the benefits of remote work for small businesses, focusing on productivity, cost savings, and employee satisfaction
+- **Final Score**: 7.2/10
+
+- **Scores for each quality criterion**:
+    - **Clarity**: 10/10 - The prompt is exceptionally clear and easy to understand, with a straightforward goal.
+    - **Specificity/Details**: 9/10 - It clearly outlines the topic, target audience (small businesses), and the three key areas of focus (productivity, cost savings, employee satisfaction).
+    - **Context**: 8/10 - It provides sufficient context regarding the subject matter and the intended focus.
+    - **Output Format & Constraints**: 9/10 - The desired output length (3 paragraphs) and the specific areas to cover are well-defined.
+    - **Persona defined**: 0/10 - No specific role or persona is assigned to the AI.
+
+- **Short explanation**: This is a very good prompt that is clear, specific, and well-structured regarding the content and length requirements. Its main area for improvement is the lack of a defined persona, which could further enhance the quality and perspective of the generated output.
+
+- **2-3 suggestions to improve the prompt**:
+    1.  **Define a persona**: Assign a specific role to the AI, such as "You are a business consultant specializing in small business growth" or "You are a content writer for a small business resource blog." This helps the AI adopt a suitable voice and perspective.
+    2.  **Specify the target audience for the output**: While "small businesses" is the subject, clarifying *who* will read this overview (e.g., "for small business owners considering remote work," "for an internal report to management") can help tailor the language and depth.
+    3.  **Suggest a tone**: Explicitly state the desired tone (e.g., "write in an informative, encouraging, and professional tone") to ensure the output aligns with expectations.
